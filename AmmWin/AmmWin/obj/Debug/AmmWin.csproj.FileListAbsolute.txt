@@ -1,0 +1,2 @@
+C:\Git Project\AmmWin\AmmWin\bin\Debug\AmmWin.exe.config
+C:\Git Project\AMM\AmmWin\AmmWin\bin\Debug\AmmWin.exe.config
