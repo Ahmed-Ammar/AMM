@@ -1,1 +1,3 @@
 AmmWin/AmmWin/bin/Debug/AmmWin.vshost.exe
+*.exe
+*.vshost.exe
