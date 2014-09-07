@@ -14,6 +14,7 @@ namespace AmmWin
 		[STAThread]
 		static void Main()
 		{
+			//change to hotfix branch
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new Form1());
